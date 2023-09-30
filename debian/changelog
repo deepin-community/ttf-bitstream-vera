@@ -1,3 +1,17 @@
+ttf-bitstream-vera (1.10-8.2) unstable; urgency=medium
+
+  * Non-maintainer upload
+
+  [ Keith Packard ]
+  * Update standards and compat
+
+  [ Daniel Kahn Gillmor ]
+  * update d/copyright
+  * add Vcs-* fields
+  * move COPYRIGHT-FAQ.TXT into debian/ for cleaner build
+
+ -- Daniel Kahn Gillmor <dkg@fifthhorseman.net>  Fri, 25 Feb 2022 10:23:59 -0500
+
 ttf-bitstream-vera (1.10-8.1) unstable; urgency=medium
 
   * Non maintainer upload by the Reproducible Builds team.
